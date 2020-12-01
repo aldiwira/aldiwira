@@ -8,4 +8,4 @@
 <a href="https://instagram.com/aldiwiraw_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aldiwiraw_" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiwira&show_icons=true&locale=en" alt="aldiwira" /></p>
+
